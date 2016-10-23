@@ -5,7 +5,7 @@ A short c++ program that calculates the histogram of a bunch of numbers.
 ## Dependencies
 
 Aside from standard C++ (vectors, This program uses the really nice Boost::Accumulators and Boost::Program_Options so you'll need these. 
-
+ 
 ## Compilation 
 
 So to compile this, please use: 
@@ -16,7 +16,7 @@ Then to get help for the calling parameters etc, do
 
 histogram --help 
 
-All follow the instructions. 
+...and follow the instructions. 
 
 ## Use cases
 
