@@ -1,6 +1,6 @@
 # histogram_cpp
 
-A short c++ program that calculates the histogram of a bunch of numbers. 
+I needed a short c++ program that calculates the histogram of a bunch of numbers on the command-line. 
 
 ## Dependencies
 
