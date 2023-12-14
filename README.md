@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # histogram_cpp
 
@@ -27,6 +27,7 @@ The first is to use it simply with a data file:
 ./histogram -i data.file --min 0.0 --max 100.0 --bins 101
 
 Then it will write the histogram to the terminal.
+
 =======
 # histogram_cpp
 
